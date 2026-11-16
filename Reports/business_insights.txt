@@ -1,0 +1,9 @@
+CREDIT CARD FRAUD ANALYSIS - BUSINESS INSIGHTS
+----------------------------------------------
+Total Transactions: 1296675
+Fraud Transactions: 7506
+Legitimate Transactions: 1289169
+Fraud Percentage: 0.58%
+Average Transaction Amount: 70.35
+Highest Transaction Amount: 28948.9
+Category with Highest Fraud Count: grocery_pos
