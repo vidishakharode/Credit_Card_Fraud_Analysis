@@ -36,15 +36,15 @@ The analysis explores transaction amounts, fraud distribution, merchant categori
 - Highest fraud rate observed during late-night hours.
 - Shopping and online-related categories showed notable fraud rates.
 
-##Power BI Dashboard
+## Power BI Dashboard
 
 An interactive six-page Power BI dashboard was developed to explore transaction patterns, fraud activity, customer spending, merchant performance, time-based trends, and geographical distribution.
 
-#Dashboard Preview
-
+# Dashboard Preview:
 View Dashboard Screenshots
 
-Download Dashboard: Credit Card Fraud Analysis – Power BI (.pbix)
+# Download Dashboard: 
+[Credit Card Fraud Analysis – Power BI (.pbix)](https://github.com/vidishakharode/Credit_Card_Fraud_Analysis/releases/download/v1.0/Credit_Card_Fraud_Analysis.pbix)
 
 ## Project Structure
 ```text
