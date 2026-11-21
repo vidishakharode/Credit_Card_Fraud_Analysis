@@ -43,16 +43,6 @@ An interactive six-page Power BI dashboard was developed to explore transaction 
 ### Dashboard Preview:
 ![Transaction Dashboard](https://github.com/vidishakharode/Credit_Card_Fraud_Analysis/blob/main/Visualizations/dashboard-page-1.png.png))
 
-![Fraud Analysis](https://github.com/vidishakharode/Credit_Card_Fraud_Analysis/blob/main/Visualizations/dashboard-page-2.png.png))
-
-![Customer Spending](https://github.com/vidishakharode/Credit_Card_Fraud_Analysis/blob/main/Visualizations/dashboard-page-3.png.png)
-
-![Merchant Analysis](https://github.com/vidishakharode/Credit_Card_Fraud_Analysis/blob/main/Visualizations/dashboard-page-4.png.png)
-
-![Time-Based Analysis](https://github.com/vidishakharode/Credit_Card_Fraud_Analysis/blob/main/Visualizations/dashboard-page-5.png.png)
-
-![Geographic Analysis](https://github.com/vidishakharode/Credit_Card_Fraud_Analysis/blob/main/Visualizations/dashboard-page-6.png.png)
-
 ### Download Dashboard: 
 [Credit Card Fraud Analysis – Power BI (.pbix)](https://github.com/vidishakharode/Credit_Card_Fraud_Analysis/releases/download/v1.0/Credit_Card_Fraud_Analysis.pbix)
 
