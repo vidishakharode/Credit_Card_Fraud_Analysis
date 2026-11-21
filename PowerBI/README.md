@@ -1,3 +1,11 @@
 # Power BI Dashboard
 
-This folder contains the interactive Credit Card Fraud Analysis dashboard created using Power BI.
+[Download Power BI Dashboard (.pbix)](PASTE_YOUR_RELEASE_LINK_HERE)
+
+The dashboard contains six pages:
+- Transaction Dashboard
+- Fraud Analysis
+- Customer Spending
+- Merchant Analysis
+- Time-Based Analysis
+- Geographic Analysis
