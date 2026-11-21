@@ -48,6 +48,9 @@ An interactive six-page Power BI dashboard was developed to explore transaction 
 
 ## Project Structure
 ```text
+## Project Structure
+
+```text
 Credit-Card-Fraud-Analysis/
 │
 ├── Python/
@@ -66,12 +69,24 @@ Credit-Card-Fraud-Analysis/
 │   ├── 07_scatter_plot.png
 │   ├── 08_correlation_heatmap.png
 │   ├── 09_pair_plot.png
-│   └── 10_fraud_count_plot.png
+│   ├── 10_fraud_count_plot.png
+│   ├── dashboard-page-1.png
+│   ├── dashboard-page-2.png
+│   ├── dashboard-page-3.png
+│   ├── dashboard-page-4.png
+│   ├── dashboard-page-5.png
+│   └── dashboard-page-6.png
 │
-└── Reports/
-    ├── Credit_Card_Fraud_Report.pdf
-    ├── business_insights.txt
-    └── statistical_summary.csv
+├── Reports/
+│   ├── Credit_Card_Fraud_Report.pdf
+│   ├── business_insights.txt
+│   └── statistical_summary.csv
+│
+├── PowerBI/
+│   └── README.md
+│
+└── README.md
+```
 ```
 
 ## Dataset
