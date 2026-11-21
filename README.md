@@ -41,7 +41,17 @@ The analysis explores transaction amounts, fraud distribution, merchant categori
 An interactive six-page Power BI dashboard was developed to explore transaction patterns, fraud activity, customer spending, merchant performance, time-based trends, and geographical distribution.
 
 ### Dashboard Preview:
-View Dashboard Screenshots
+![Transaction Dashboard](Visualizations/dashboard-page-1.png)
+
+![Fraud Analysis](Visualizations/dashboard-page-2.png)
+
+![Customer Spending](Visualizations/dashboard-page-3.png)
+
+![Merchant Analysis](Visualizations/dashboard-page-4.png)
+
+![Time-Based Analysis](Visualizations/dashboard-page-5.png)
+
+![Geographic Analysis](Visualizations/dashboard-page-6.png)
 
 ### Download Dashboard: 
 [Credit Card Fraud Analysis – Power BI (.pbix)](https://github.com/vidishakharode/Credit_Card_Fraud_Analysis/releases/download/v1.0/Credit_Card_Fraud_Analysis.pbix)
